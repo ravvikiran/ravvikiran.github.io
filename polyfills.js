@@ -9,7 +9,6 @@
 
 module.exports = __webpack_require__(/*! /Users/ravikiran/Downloads/angular/resume-site/src/polyfills.ts */"hN/g");
 
-
 /***/ }),
 
 /***/ "N/DB":
